@@ -83,12 +83,3 @@
 - 🔗 **Links:** [**Live Demo**](https://recoland-frontend-sage.vercel.app/) | [**Source Code**](https://github.com/ngocdan-03/DATN)
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ngocdan-03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocdan-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=ngocdan-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
